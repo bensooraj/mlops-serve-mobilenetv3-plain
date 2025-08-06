@@ -75,12 +75,14 @@ name = "mlops-serve-mobilenetv3-plain"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "pillow" },
     { name = "torch" },
     { name = "torchvision" },
 ]
 
 [package.metadata]
 requires-dist = [
+    { name = "pillow", specifier = ">=11.3.0" },
     { name = "torch", specifier = ">=2.7.1" },
     { name = "torchvision", specifier = ">=0.22.1" },
 ]
