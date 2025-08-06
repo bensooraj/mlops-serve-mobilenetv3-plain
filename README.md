@@ -62,3 +62,5 @@ $ curl -X 'POST' \
 
 1. [saveloadrun_tutorial](https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
 2. [saving_loading_models](https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html)
+3. [Deploying PyTorch with FastAPI to Handle 120K+ requests a Day!](https://medium.com/data-science-collective/deploying-pytorch-with-fastapi-to-handle-120k-requests-a-day-d4573a5767af)
+4. [terraform-custom-pytorch-model-sagemaker-endpoint](https://github.com/MlOpsWithAM/terraform-custom-pytorch-model-sagemaker-endpoint)
